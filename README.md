@@ -1,4 +1,4 @@
-I'm a Statistics grad student without a traditional CS background—just a fully self-taught coding enthusiast. I code purely for fun and love building anything cool.
+I'm a Statistics grad student without a CS background,just fully self-taught coding enthusiast. I code purely for fun and love building anything cool.
 
 🐢 **Data Science & Algorithms**
 I participate in algorithm and data science competitions at slow pace. However, I rarely push that code to GitHub because I'm addicted to Kaggle Notebooks and not quite used to the Python + Git workflow.
