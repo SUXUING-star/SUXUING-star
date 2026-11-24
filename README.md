@@ -5,7 +5,9 @@ I participate in algorithm and data science competitions at slow pace. However, 
 
 🚀 **What I Do on GitHub**
 I prefer exploring technologies that allow for more creativity. 
+
 I don't like "tech" that feel artificial or forced, and I really don't like agent tech either.
+
 My repositories mainly focus on:
 - Full-stack Web & Mobile Development
 - Cutting-edge tech, 3D technologies, and AIGC-related projects
