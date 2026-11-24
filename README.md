@@ -4,6 +4,7 @@ I'm a Statistics grad student without a CS background,just fully self-taught cod
 I participate in algorithm and data science competitions at slow pace. However, I rarely push that code to GitHub because I'm addicted to Kaggle Notebooks and not quite used to the Python + Git workflow.
 
 🚀 **What I Do on GitHub**
+
 I prefer exploring technologies that allow for more creativity. 
 
 I don't like "tech" that feel artificial or forced, and I really don't like agent tech either.
