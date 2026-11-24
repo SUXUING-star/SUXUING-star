@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm a Statistics grad student without a traditional CS background—just a fully self-taught coding enthusiast. I code purely for fun and love building anything cool.
 
-<!--
-**SUXUING-star/SUXUING-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐢 **Data Science & Algorithms**
+I participate in algorithm and data science competitions at a grandpa's pace. However, I rarely push that code to GitHub because I'm addicted to Kaggle Notebooks and still not quite used to the Python + Git workflow. You can check out my data science journey on my [Kaggle Profile](https://www.kaggle.com/suxingstar).
 
-Here are some ideas to get you started:
+🚀 **What I Do on GitHub**
+Here on GitHub, I prefer exploring technologies that allow for more creativity. My repositories mainly focus on:
+- Full-stack Web & Mobile Development
+- Cutting-edge tech, 3D technologies, and AIGC-related projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+A total hodgepodge of languages and frameworks: 
+`TypeScript (JavaScript)` · `Flutter (Dart)` · `Go` · `Python` · `Kotlin (Java)`
